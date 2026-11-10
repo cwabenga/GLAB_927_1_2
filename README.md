@@ -29,6 +29,8 @@ uv run python src/glab_927_1_2/text_analysis.py
 # Run Lab 927.4.1: TextBlob Sentiment Analysis Mapping
 uv run python src/glab_927_1_2/sentiment_analysis.py
 ```
+# Run the complete configured package entry point
+uv run glab-927-1-2
 
 ---
 
