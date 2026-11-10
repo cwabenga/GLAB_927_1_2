@@ -1,7 +1,7 @@
 [project]
 name = "glab-927-1-2"
 version = "0.1.0"
-description = "Add your description here"
+description = "Business NLP text processing, entity recognition, and sentiment analysis using NLTK and TextBlob"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
