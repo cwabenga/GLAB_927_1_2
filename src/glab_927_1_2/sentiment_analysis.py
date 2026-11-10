@@ -40,7 +40,7 @@ def run_sentiment_analysis():
 	# Task 3: Analyzing Business Communication Data (Multiple Feedbacks)
 	# =========================================================================
 	print("=================================================================")
-	print("TASK 3: MULTIPLE CUSTOMER FEEDBACK SENTIMENT ANALSYS")
+	print("TASK 3: MULTIPLE CUSTOMER FEEDBACK SENTIMENT ANALYSIS")
 	print("=================================================================")
 
 	# Collection of realistic business service improvement comments
